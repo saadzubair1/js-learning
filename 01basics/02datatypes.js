@@ -26,3 +26,4 @@ let myObj = { naam:"saad",umar:23,degree:"BSSE"}  // object
 let myFunction = function(){                      // Function
     console.log("slamaleekuuuuuuum");
 };
+ 
