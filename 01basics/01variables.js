@@ -9,4 +9,4 @@ accPassword = "11111"
 accCity = "kiraanchi"
 
 // console.log(accId);
-console.table([accId, accEmail, accPassword, accCity])
+// console.table([accId, accEmail, accPassword, accCity])

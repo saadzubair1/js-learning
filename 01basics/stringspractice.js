@@ -15,10 +15,11 @@ MyName = 'Saad Zubair'
 // console.log(LastName);
 
 let naaam = MyName.split(' ');
-console.log(naaam[1]);
+// console.log(naaam[1]);
  
 let namenospace = MyName.replace(' ','');
-console.log(namenospace);
+// console.log(namenospace);
 
-console.log(MyName.indexOf('a'));
+// console.log(MyName.indexOf('a'));
+
 

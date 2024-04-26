@@ -1,0 +1,12 @@
+
+
+
+const tee = new Number(100);
+// console.log(tee.toString());
+
+const pointwala = 123.45678
+// console.log(pointwala.toPrecision(5));
+
+//////////////////////////---MATHS---/////////////////////////////////////////////////////////////////////////////////////////////////
+console.log(Math);
+
